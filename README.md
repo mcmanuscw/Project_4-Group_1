@@ -1,12 +1,6 @@
 # Machine Learning Integration - Tweets Data
 
-Author: 
-Pfleegor, Alexandra
-Mcmanus, Charles
-Cole, Jaleel
-Itchon, Nigel
-Gianan, Rosie
-Cooper, Kellimarie
+Author:  Alexandra Pfleegor, Charles Mcmanus, Jaleel Cole, Nigel Itchon, Rosie Gianan, Kellimarie Cooper 
 
 Build With: Python, Pandas,  NLP, PySpark, Machine Learning, scikit-learn, jupyter notebook 
 
