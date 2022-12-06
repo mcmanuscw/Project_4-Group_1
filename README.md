@@ -16,7 +16,8 @@ Feeling more confident in BERT, the team trains BERT on a separate [emotions dat
 
 In this repository, there are three folders entitled: BERT, Notebooks, and Resources and two Jupyter notebooks in the main directory. The Resources folder contains the Twitter dataset. The Notebooks folder contains the teams individual explorations of each model. The Sentimental_Analysis notebook contains a consolidated version of all the models. The second notebook, Sentimental_Analysis_Colab, mirrors the first notebook, but trains a second Naive Bayes model using PySpark and was run with Google Colab. The BERT folder contains all the BERT training, Flask app and the requisite HTML and CSS files. 
 
-# Modules Used
+# Tools/Modules Used
+- Python
 - Pandas
 - scikit-learn
 - Matplotlib
@@ -25,6 +26,8 @@ In this repository, there are three folders entitled: BERT, Notebooks, and Resou
 - Flask
 - Pickle
 - simpletransformers
+- Tableau
+- CSV
 
 # Conclusions
 Machines and computers lack context. When given context, they require more resources. While accurate, BERT took two hours to train using simpletransformers. TF-IDF is useful in objective classification, but may fail to identify context needed for accurate subjective multiclass classification. Ensemble methods are techniques that create multiple models and then combine them to produce improved results. Ensemble methods usually produces more accurate solutions than a single model would.
